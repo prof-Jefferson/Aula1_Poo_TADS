@@ -34,6 +34,18 @@ public class Carro
 
     public void SetAno(int ano)
     {
-        this.ano = ano;
+        // Obtém o ano atual
+        int anoAtual = DateTime.Now.Year;
+
+        // Verifica se o ano está dentro do intervalo aceitável
+        if (ano >= 1980 && ano <= anoAtual)
+        {
+            this.ano = ano;
+            Console.WriteLine($"Ano do carro definido para {ano}.");
+        }
+        else
+        {
+            Console.WriteLine($"Erro: Ano {ano} inválido. Deve estar entre 1980 e {anoAtual}.");
+        }
     }
 }

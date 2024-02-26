@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 2 - Tipos Abstratos de Dados\\SRC\\SRC.csproj",
+      "projectUniqueName": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 2 - Tipos Abstratos de Dados\\SRC\\Aula2\\SRC.csproj",
       "projectName": "SRC",
-      "projectPath": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 2 - Tipos Abstratos de Dados\\SRC\\SRC.csproj",
+      "projectPath": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 2 - Tipos Abstratos de Dados\\SRC\\Aula2\\SRC.csproj",
       "packagesPath": "C:\\Users\\jeffj\\.nuget\\packages\\",
-      "outputPath": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 2 - Tipos Abstratos de Dados\\SRC\\obj\\",
+      "outputPath": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 2 - Tipos Abstratos de Dados\\SRC\\Aula2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeffj\\AppData\\Roaming\\NuGet\\NuGet.Config"
